@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubProject</string>
+    <string name="RepositoryURL">Repository</string>
+    <string name="OwnerURL">Owner</string>
+</resources>
